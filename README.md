@@ -1,8 +1,5 @@
-# FB-s-Comment-Classification-in-Armenian-
-Multi-label Classification Dataset
+# Facebook's Comment Classification Dataset (in Armenian)
 
-
-Facebook's Comment Classification Dataset (in Armenian)
 Multi-label Classification
 
 Version 0.9, Released 13/12/2019
