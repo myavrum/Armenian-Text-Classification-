@@ -1,4 +1,4 @@
-# Facebook's Comment Classification Dataset (in Armenian)
+# Armenian Text Classification Dataset
 
 ### Multi-label Classification
 
